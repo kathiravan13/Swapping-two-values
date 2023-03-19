@@ -3,7 +3,7 @@
 To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
 PC
-Anaconda - Python 3.7
+Anaconda - Python 3.7wd
 ## ALGORITHM: 
 ### Step 1:
 Get the two values from the user
@@ -18,11 +18,23 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+#Program to swap two values.
+#Developed by: kathiravan
+#RegisterNumber:212222230063
+num1,num2=int(input()),int(input())
+temp=num1
+num1=num2
+num2=temp
+print("Swapped values are:",num1,num2)
 
+```
+## OUTPUT:
+![GitHub Logo](exp1.png)
 
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully executed.
 
 
 
