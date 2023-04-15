@@ -29,8 +29,11 @@ num2=temp
 print("Swapped values are:",num1,num2)
 
 ```
-## OUTPUT:
-![GitHub Logo](exp1.png)
+output
+
+![Screenshot from 2023-04-15 11-17-30](https://user-images.githubusercontent.com/119831303/232186999-2064cd91-f6be-4e12-8d56-d675a3412f58.png)
+
+
 
 
 ## RESULT:
